@@ -1,0 +1,53 @@
+/* Cascading Style Sheets */
+
+body {
+  margin: 0;
+}
+
+main {
+  background-color: #D7E3FA;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* the card section is a class of the <section> tag */
+.card {
+  width: 400px;
+  background-color: #FFFFFF;
+  /* padding */
+  padding: 32px;
+  /* border, style, width, color, radius */
+  border-radius: 20px;
+
+  text-align: center;
+}
+
+h1 {
+  color: #1B212C;
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 0px;
+}
+
+p {
+  color: #1B212C;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  margin-top: 8px;
+}
+
+img {
+  width: 140px;
+  height: 140px;
+  border-radius: 9999px;
+}
+
+.links {
+
+}
+
+a {
+  margin: 8px;
+}
