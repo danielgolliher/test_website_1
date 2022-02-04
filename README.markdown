@@ -12,7 +12,7 @@ If you want a great walkthrough of HTML and CSS (the foundational technologies n
 
 There's a good review at the end, with a complete glossary of all the terms you encountered. 
 
-# Stuff Not in the Course that's needed to host on GitHub
+# Stuff not in the course that's needed to host on GitHub
 
 - Knowing how to use GitHub: creating repositories, using GitHub Pages for site hosting
 - Knowing which files to upload to GitHub once you export them from CodePen (you just need the index and style files from the src folder)
